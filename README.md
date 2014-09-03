@@ -1,6 +1,6 @@
 # Spark源码读书笔记
 
-标签（空格分隔）： Spark
+标签（空格分隔）： Spark Reading-Journal
 
 ---
 
@@ -10,8 +10,10 @@
 
 - [Spark Scheduler相关代码阅读笔记][2]
 - [Spark RDD相关代码阅读笔记][3]
+- [Spark Stand Alone模式][4]
 
 
   [1]: https://github.com/JerryLead/SparkInternals/tree/master/markdown
   [2]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/scheduler.md
   [3]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/RDD.md
+  [4]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/stand-alone-deploy.md
