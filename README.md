@@ -11,9 +11,11 @@
 - [Spark Scheduler相关代码阅读笔记][2]
 - [Spark RDD相关代码阅读笔记][3]
 - [Spark Stand Alone模式][4]
+- [Spark Executor][5]
 
 
   [1]: https://github.com/JerryLead/SparkInternals/tree/master/markdown
   [2]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/scheduler.md
   [3]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/RDD.md
   [4]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/stand-alone-deploy.md
+  [5]: https://github.com/GordonWang/spark-reading-journal/blob/master/journals/executor.md
